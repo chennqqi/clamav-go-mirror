@@ -1,4 +1,4 @@
-module github.com/mxplusb/clamav
+module github.com/chennqqi/clamav
 
 go 1.12
 
